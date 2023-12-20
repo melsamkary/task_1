@@ -13,6 +13,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     left: 0;
+    animation-delay: 2s;
 }
 @keyframes change{
     form{left: 0;}
@@ -30,7 +31,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     right: 0;
-    animation-delay: 2s;
+    animation-delay: 4s;
     top: 105px;
 }
 @keyframes change1{
@@ -49,7 +50,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     left: 0;
-    animation-delay: 4s;
+    animation-delay: 6s;
     top: 210px;
 }
 @keyframes change2{
@@ -68,7 +69,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     right: 0;
-    animation-delay: 6s;
+    animation-delay: 8s;
     top: 315px;
 }
 @keyframes change3{
@@ -87,7 +88,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     left: 0;
-    animation-delay: 8s;
+    animation-delay: 10s;
     top: 420px;
 }
 @keyframes change4{
@@ -106,7 +107,7 @@
     animation-fill-mode: forwards;
     position: absolute;
     right: 0;
-    animation-delay: 10s;
+    animation-delay: 12s;
     top: 525px;
 }
 @keyframes change5{
@@ -125,7 +126,7 @@
     animation-fill-mode: forwards;
     position: absolute;
 left: 0;
-    animation-delay: 12s;
+    animation-delay: 14s;
     top: 630px;
 }
 @keyframes change6{
@@ -144,7 +145,7 @@ left: 0;
     animation-fill-mode: forwards;
     position: absolute;
 right: 0;
-    animation-delay: 14s;
+    animation-delay: 16s;
     top: 735px;
 }
 @keyframes change7{
