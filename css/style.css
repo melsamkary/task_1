@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    left: 0;
+}
+@keyframes change{
+    form{left: 0;}
+    to{
+        left: 1275px;
+    }
+}
+.div2{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change1;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    right: 0;
+    animation-delay: 2s;
+    top: 105px;
+}
+@keyframes change1{
+    form{right: 0;}
+    to{
+        right: 1275px;
+    }
+}
+.div3{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change2;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    left: 0;
+    animation-delay: 4s;
+    top: 210px;
+}
+@keyframes change2{
+    form{left: 0;}
+    to{
+        left: 1275px;
+    }
+}
+.div4{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change3;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    right: 0;
+    animation-delay: 6s;
+    top: 315px;
+}
+@keyframes change3{
+    form{right: 0;}
+    to{
+        right: 1275px;
+    }
+}
+.div5{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change4;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    left: 0;
+    animation-delay: 8s;
+    top: 420px;
+}
+@keyframes change4{
+    form{left: 0;}
+    to{
+        left: 1275px;
+    }
+}
+.div6{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change5;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    right: 0;
+    animation-delay: 10s;
+    top: 525px;
+}
+@keyframes change5{
+    form{right: 0;}
+    to{
+        right: 1275px;
+    }
+}
+.div7{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change6;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+left: 0;
+    animation-delay: 12s;
+    top: 630px;
+}
+@keyframes change6{
+    form{left: 0;}
+    to{
+        left: 1275px;
+    }
+}
+.div8{
+    width:250px;
+    height: 100px;
+    border: 2px solid gray;
+    background-color: blue;
+    animation-name: change7;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: absolute;
+right: 0;
+    animation-delay: 14s;
+    top: 735px;
+}
+@keyframes change7{
+    form{right: 0;}
+    to{
+        right: 1275px;
+    }
+}
